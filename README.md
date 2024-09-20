@@ -11,6 +11,30 @@
 - Instant feedback with explanations after each answer.
 - Score tracking throughout the quiz.
 - Navigation between questions (previous/next).
+  File name- quiz_app.py
+file structure
+QuizApp/
+├── quizzes/               # Directory for quiz data in JSON format
+├── quiz_app.py            # Main Python application
+└── README.md              # Project documentation
+json format
+[
+  {
+    "quiz_items": [
+      {
+        "question": "What is the SI unit of temperature?",
+        "answers": ["Kelvin", "Celsius", "Fahrenheit", "Rankine"],
+        "correct": 0,
+        "source": "Physics Textbook",
+        "explanation": "Kelvin is the SI unit of temperature."
+      }
+    ]
+  }
+]
+Ensure you have the required quiz files in the quizzes/ directory. Each quiz file should follow the format: [topic]_quiz.json.
+
+Run the application:
+
 
 ## Installation
 ### Prerequisites
