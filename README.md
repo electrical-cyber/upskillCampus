@@ -11,13 +11,13 @@
 - Instant feedback with explanations after each answer.
 - Score tracking throughout the quiz.
 - Navigation between questions (previous/next).
-  File name- quiz_app.py
+  File name- quiz.py
 file structure
 QuizApp/
 quizzes/ # Directory for quiz data in JSON format
 
 
-quiz_app.py # Main Python application
+quiz.py # Main Python application
 
 
 README.md # Project documentation
