@@ -14,9 +14,9 @@
   File name- quiz_app.py
 file structure
 QuizApp/
-├── quizzes/               # Directory for quiz data in JSON format
-├── quiz_app.py            # Main Python application
-└── README.md              # Project documentation
+quizzes/               # Directory for quiz data in JSON format
+quiz_app.py            # Main Python application
+README.md              # Project documentation
 json format
 (Given in the quizez file in the repository )
 Ensure you have the required quiz files in the quizzes/ directory. Each quiz file should follow the format: [topic]_quiz.json.
