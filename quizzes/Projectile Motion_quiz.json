@@ -1,0 +1,33 @@
+[
+    {
+        "topic": "Projectile Motion",
+        "quiz_items": [
+          {
+            "id": 557,
+            "question": "For maximum range, the angle of projection should be-",
+            "answers": [
+              "60°",
+              "75°",
+              "30°",
+              "45°"
+            ],
+            "correct": 3,
+            "explanation": "For maximum range, the angle of projection should be 45°. This is because the range of a projectile is maximized when the angle of projection is 45°.",
+            "source": "RRB Group-D 16-11-2018 (Shift-III)"
+          },
+          {
+            "id": 558,
+            "question": "The trajectory (or path) of a projectile is………….",
+            "answers": [
+              "straight line",
+              "parabola",
+              "circle",
+              "hyperbola"
+            ],
+            "correct": 1,
+            "explanation": "The trajectory (or path) of a projectile is a parabola. This is due to the influence of gravity and the initial projection velocity.",
+            "source": "RRB Group-D 16-11-2018 (Shift-III)"
+          }
+        ]
+      }      
+]

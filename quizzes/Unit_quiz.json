@@ -1,0 +1,986 @@
+[
+  {
+    "topic": "Unit/Measurement/Measuring Instrument",
+    "quiz_items": [
+      {
+        "id": 1,
+        "question": "The commercial unit of electrical energy is ........",
+        "answers": [
+          "Watt",
+          "Calorie",
+          "Kilowatt hour",
+          "Joule"
+        ],
+        "correct": 2,
+        "explanation": "The commercial unit of electrical energy is kilowatt hour. One kilowatt hour = 1000W × 1 hour = 1000 × 3600 = 3.6 × 10^6 Joule.",
+        "source": "RRB Group-D– 30/09/2022 (Shift-I)"
+      },
+   {
+    "id": 2,
+    "question": "The S.I. unit of resistance is equivalent to:",
+    "answers": [
+      "joule/coulomb",
+      "volt/ampere",
+      "ampere/volt",
+      "coulomb/joule"
+    ],
+    "correct": 1,
+    "explanation": "According to ohm's law, V = IR and R = V/I. The SI unit of resistance is volt/ampere.",
+    "source": "RRB Group-D 25-08-2022 (Shift-III)"
+  },
+  {
+    "id": 3,
+    "question": "The physical quantity having a unit of volt/ampere is –––––––.",
+    "answers": [
+      "work",
+      "Current",
+      "charge",
+      "resistance"
+    ],
+    "correct": 3,
+    "explanation": "The physical quantity having a unit of volt/ampere is resistance.",
+    "source": "RRB Group-D 28-09-2022 (Shift-III)"
+  },
+  {
+    "id": 4,
+    "question": "The unit of resistance is ……… .",
+    "answers": [
+      "Ampere",
+      "Coulomb",
+      "Ohm",
+      "Volt"
+    ],
+    "correct": 2,
+    "explanation": "Resistance is a measure of the opposition to current flow in an electrical circuit. The unit of resistance is ohm.",
+    "source": "RRB Group-D 29-09-2022 (Shift-III)"
+  },
+  {
+    "id": 5,
+    "question": "The S.I. unit of induced potential difference is:",
+    "answers": [
+      "mV",
+      "A",
+      "V",
+      "mA"
+    ],
+    "correct": 2,
+    "explanation": "Induced emf is potential difference only hence its unit is volt.",
+    "source": "RRB Group-D 22-08-2022 (Shift-III)"
+  },
+  {
+    "id": 6,
+    "question": "The S.I. unit of resistivity is:",
+    "answers": [
+      "ohm/m",
+      "ohm",
+      "mho",
+      "ohm m"
+    ],
+    "correct": 3,
+    "explanation": "The S.I. unit of resistivity is ohm meter. Electrical resistivity measures how strongly a material resists electric current.",
+    "source": "RRB Group-D 25-08-2022 (Shift-II)"
+  },
+  {
+    "id": 7,
+    "question": "Newton is the unit to measure ______.",
+    "answers": [
+      "Power",
+      "Force",
+      "Pressure",
+      "Resistance"
+    ],
+    "correct": 1,
+    "explanation": "Newton is the SI unit for Force. Other units are Watt for Power, Pascal for Pressure, and Ohm for Resistance.",
+    "source": "RRB NTPC 08.02.2021 (Shift-II) Stage Ist"
+  },
+  {
+    "id": 8,
+    "question": "The SI unit of sound wave frequency was named in honour of which physicist?",
+    "answers": [
+      "Werner Karl Heisenberg",
+      "Heinrich Rudolf Hertz",
+      "Albert Einstein",
+      "J C Maxwell"
+    ],
+    "correct": 1,
+    "explanation": "The term 'Hertz' was proposed in the early 1920s by German scientists to honour Heinrich Hertz.",
+    "source": "RRB NTPC 19.01.2021 (Shift-II) Stage Ist"
+  },
+  {
+    "id": 9,
+    "question": "The work done by a force acting on an object is equal to the amount of force multiplied by the distance travelled in the direction of the force. Which of the following is NOT a unit of work?",
+    "answers": [
+      "Kgm/sec2",
+      "Kgm2/sec2",
+      "Newton meter",
+      "Joule"
+    ],
+    "correct": 0,
+    "explanation": "Work is defined as force multiplied by distance. The SI units of work are Newton meter or Joule. Kgm/sec2 is the unit of Force.",
+    "source": "RRB NTPC 13.03.2021 (Shift-I) Stage Ist"
+  },
+  {
+    "id": 10,
+    "question": "The unit of Force is:",
+    "answers": [
+      "gms–1",
+      "Kgms–2",
+      "gms–2",
+      "Kgms–1"
+    ],
+    "correct": 1,
+    "explanation": "The SI unit of Force is kg.ms-2. It is expressed by the vector product of mass and acceleration.",
+    "source": "RRB NTPC 13.03.2021 (Shift-I) Stage Ist"
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is not a unit of temperature?",
+    "answers": [
+      "Fahrenheit",
+      "Pascal",
+      "Celsius",
+      "Kelvin"
+    ],
+    "correct": 1,
+    "explanation": "Fahrenheit, Celsius, and Kelvin are units of temperature. Pascal is a unit of pressure.",
+    "source": "RRB Group-D 31-10-2018 (Shift-II)"
+  },
+  {
+    "id": 12,
+    "question": "The SI unit of electrical resistivity is ………….",
+    "answers": [
+      "Ohm-meter",
+      "Ohm",
+      "Coulomb",
+      "Ampere"
+    ],
+    "correct": 0,
+    "explanation": "The electrical resistivity of a substance is measured in Ohm meter (Ωm).",
+    "source": "RRB Group-D 04-12-2018 (Shift-III)"
+  },
+  {
+    "id": 13,
+    "question": "The commercial unit of electric energy is .......",
+    "answers": [
+      "watt",
+      "kW",
+      "kilowatt-hour",
+      "joule"
+    ],
+    "correct": 2,
+    "explanation": "The commercial unit of electric energy is kilowatt hour. 1 kilowatt hour = 3.6 × 10^6 joule.",
+    "source": "RRB Group-D 20-09-2018 (Shift-II)"
+  },
+  {
+    "id": 14,
+    "question": "The amount of radiation being emitted by a radioactive material is measured using the conventional unit ––––––.",
+    "answers": [
+      "Watt",
+      "Pascal",
+      "Ampere",
+      "Curie"
+    ],
+    "correct": 3,
+    "explanation": "The amount of radiation emitted by a radioactive material is measured in Curie, which is the traditional unit of radioactivity.",
+    "source": "RRB NTPC 29.01.2021 (Shift-II) Stage Ist"
+  },
+  {
+    "id": 15,
+    "question": "What is measured in 'joules'?",
+    "answers": [
+      "Energy",
+      "Velocity",
+      "Force",
+      "Power"
+    ],
+    "correct": 0,
+    "explanation": "Joules are the SI unit of Energy and Work. Velocity is measured in m/s, Force in Newton, and Power in Watt.",
+    "source": "RRB NTPC 28.01.2021 (Shift-I) Stage Ist"
+  },
+  {
+    "id": 16,
+    "question": "Henry per meter is the unit of______.",
+    "answers": [
+      "Watt per steradian",
+      "Electronegativity",
+      "Magnetic permeability",
+      "Electrical conductivity"
+    ],
+    "correct": 2,
+    "explanation": "Henry per meter is the SI unit of magnetic permeability.",
+    "source": "ALP Stage -II 23.01.2019 (shift - II)"
+  },
+  {
+    "id": 17,
+    "question": "A light-year is a unit of ______",
+    "answers": [
+      "Time",
+      "Intensity of light",
+      "Mass",
+      "Distance"
+    ],
+    "correct": 3,
+    "explanation": "A light-year measures distance. It is the distance light travels in one Earth year, equal to approximately 9.461 × 10^12 kilometers.",
+    "source": "RRB NTPC 01.02.2021 (Shift-I) Stage Ist"
+  },
+  {
+    "id": 18,
+    "question": "Light-year is the unit of –",
+    "answers": [
+      "Time",
+      "Distance",
+      "Speed of light",
+      "Intensity of light"
+    ],
+    "correct": 1,
+    "explanation": "A light-year is a measure of distance, specifically the distance light travels in one year.",
+    "source": "RRB Group-D 13-03-2021 (Shift-I)"
+  },
+  {
+    "id": 19,
+    "question": "The SI unit of power of a lens is called?",
+    "answers": [
+      "Hypermetropic",
+      "Dioptre",
+      "Myopic",
+      "Presbyopic"
+    ],
+    "correct": 1,
+    "explanation": "The SI unit of the power of a lens is the Dioptre (D). It is the reciprocal of the focal length in meters.",
+    "source": "RRB NTPC 13.01.2021 (Shift-II) Stage Ist"
+  },
+  {
+      "id": 20,
+      "question": "The SI unit of 'Magnetic Flux' is:",
+      "answers": [
+        "Farad",
+        "Henry",
+        "Pascal",
+        "Weber"
+      ],
+      "correct": 3,
+      "explanation": "The SI unit of Magnetic Flux is the Weber.",
+      "source": "RRB NTPC 03.03.2021 (Shift-II) Stage Ist"
+    },
+    {
+      "id": 21,
+      "question": "Which of the following quantities has the SI unit as Candela?",
+      "answers": [
+        "Impulse",
+        "Velocity",
+        "Force",
+        "Luminous intensity"
+      ],
+      "correct": 3,
+      "explanation": "The Candela (cd) is the SI unit of luminous intensity, which is a measure of power emitted from a light source.",
+      "source": "RRB JE CBT-II 29–08–2019 (evening)"
+    },
+    {
+      "id": 22,
+      "question": "The rate of doing work is called power. The unit of power is",
+      "answers": [
+        "Ampere",
+        "Volt",
+        "Kelvin",
+        "Watt"
+      ],
+      "correct": 3,
+      "explanation": "In physics, power is the rate of doing work. It is the amount of energy consumed per unit of time. The unit of power is the joule per second (J/s), known as the Watt (in honor of James Watt, the eighteenth century developer of the steam engine). (1 HP = 746 watt).",
+      "source": "RRB NTPC 11.02.2021 (Shift-I) Stage Ist, RRB Science Planner Physics 13 YCT"
+    },
+    {
+      "id": 23,
+      "question": "Unit of power is known as –",
+      "answers": [
+        "Watt",
+        "Joule",
+        "Newton",
+        "Pascal"
+      ],
+      "correct": 0,
+      "explanation": "The SI unit of power is the Watt.",
+      "source": "RRB JE (24-05-2019, Shift -I), RRB Group-D, 01-10-2018 (Shift –II), RRB Group-D, 22-10-2018 (Shift –I), RRB ALP & Tec.(21-08-2018, Shift-I)"
+    },
+    {
+      "id": 24,
+      "question": "Which of the following units is used to measure the intensity of sound?",
+      "answers": [
+        "Pascal",
+        "Curie",
+        "Decibel",
+        "Joule"
+      ],
+      "correct": 2,
+      "explanation": "The decibel is the unit used to measure the intensity of sound. It is also widely used in electronics, signals, and communication.",
+      "source": "RRB NTPC 25.01.2021 (Shift-I) Stage Ist"
+    },
+    {
+      "id": 25,
+      "question": "Unit used for measuring the sound is –",
+      "answers": [
+        "Decibel",
+        "Hertz",
+        "Ohm",
+        "Volt"
+      ],
+      "correct": 0,
+      "explanation": "The unit used for measuring sound is the Decibel.",
+      "source": "RRB NTPC Stage-Ist, 22-04-2016, Shift -II, RRB NTPC Stage-Ist, 18-04-2016, Shift -II"
+    },
+    {
+      "id": 26,
+      "question": "Which of the following units is used for measuring the amount of a substance?",
+      "answers": [
+        "Lux",
+        "Mole",
+        "Tesla",
+        "Joule"
+      ],
+      "correct": 1,
+      "explanation": "The mole is used for measuring the amount of a substance. It is the SI unit of amount of substance. One mole contains 6.022 × 10^23 molecules of the substance.",
+      "source": "RRB NTPC 28.12.2020 (Shift-I) Stage Ist"
+    },
+    {
+      "id": 27,
+      "question": "What is the SI Unit of amount of substances?",
+      "answers": [
+        "Radian",
+        "Mole",
+        "Joule",
+        "Kelvin"
+      ],
+      "correct": 1,
+      "explanation": "The SI unit of the amount of a substance is the Mole.",
+      "source": "RPF Constable 05.02.2019"
+    },
+    {
+      "id": 28,
+      "question": "S.I. unit of weight is -",
+      "answers": [
+        "Kilogram",
+        "Newton",
+        "Gram",
+        "Dyne"
+      ],
+      "correct": 1,
+      "explanation": "The SI unit of measurement of weight is Newton. Weight is the force on an object due to gravity. The dyne is a derived unit of force specified in the centimeter–gram–second (CGS) system of units.",
+      "source": "RRB JE (24-05-2019, Shift-I), RRB Group-D, 03-10-2018 (Shift –II), RRB ALP & Tec.(17-08-2018, Shift-II)"
+    },
+    {
+      "id": 29,
+      "question": "Unit of momentum is –",
+      "answers": [
+        "kgms^2",
+        "kgms^-1",
+        "kgms",
+        "kgms^-2"
+      ],
+      "correct": 1,
+      "explanation": "Momentum (P) = mass (m) × velocity (v) = kg × m/s. Unit of momentum (P) = kgms^-1.",
+      "source": "RRB ALP & Tec.(14-08-2018, Shift-II), RRB Group-D, 23-10-2018 (Shift –I), RRB Group-D, 19-09-2018 (Shift –III)"
+    },
+    {
+      "id": 30,
+      "question": "Unit of power in industry is –",
+      "answers": [
+        "Kilowatt",
+        "Watt",
+        "Joule",
+        "Horsepower"
+      ],
+      "correct": 3,
+      "explanation": "The industrial unit of power is Horsepower. 1 Horsepower (HP) = 746 watt.",
+      "source": "RRB ALP & Tec.(13-08-2018, Shift-III)"
+    },
+    {
+      "id": 31,
+      "question": "S.I. unit of electric charge is –",
+      "answers": [
+        "Volt",
+        "Coulomb",
+        "Kelvin",
+        "kg"
+      ],
+      "correct": 1,
+      "explanation": "The SI unit of electric charge is Coulomb, represented by the symbol 'C'. A coulomb is defined as the amount of charge that passes through an electrical conductor carrying one ampere of current in one second.",
+      "source": "RRB Group-D, 26-11-2018 (Shift –III), RRB Group-D, 04-10-2018 (Shift –II), RRB ALP & Tec.(31-08-2018, Shift-III), RRB ALP & Tec.(10-08-2018, Shift-III), RRB NTPC Stage-Ist,28-03-2016, Shift -II"
+    },
+    {
+      "id": 32,
+      "question": "S.I. unit of resistance is –",
+      "answers": [
+        "Coulomb",
+        "Ohm",
+        "Joule",
+        "Newton"
+      ],
+      "correct": 1,
+      "explanation": "The SI unit of electrical resistance is Ohm (Ω).",
+      "source": "RRB Group-D, 23-11-2018 (Shift –I), RRB Group-D, 31-10-2018 (Shift –II), RRB ALP & Tec.(09-08-2018, Shift-I), RRB NTPC Stage-Ist,26-04-2016, Shift -III, RRB NTPC 21.01.2021 (Shift-II) Stage Ist"
+    },
+    {
+      "id": 33,
+      "question": "Ohm is unit of which physical quantity?",
+      "answers": [
+        "Resistance",
+        "Charge",
+        "Voltage",
+        "Current"
+      ],
+      "correct": 0,
+      "explanation": "The Ohm is the unit of electrical resistance.",
+      "source": "RRB JE (28-06-2019, Shift -IV)"
+    },
+    {
+      "id": 34,
+      "question": "S.I. unit of stress is –",
+      "answers": [
+        "kg/cm^2",
+        "N",
+        "N/m^2",
+        "Watt"
+      ],
+      "correct": 2,
+      "explanation": "SI unit of stress is N/m^2 or Pascal (Pa).",
+      "source": "RRB SSE (21-12-2014, Set-8, Green Paper)"
+    },
+    {
+      "id": 35,
+      "question": "S.I. unit of electric current is –",
+      "answers": [
+        "Ampere",
+        "Coulomb",
+        "Joule",
+        "Volt"
+      ],
+      "correct": 0,
+      "explanation": "The SI unit of electric current is Ampere (A).",
+      "source": "RRB NTPC 11.12.2020 (Shift-II) Stage Ist"
+    },
+    {
+      "id": 36,
+      "question": "The S.I. unit of electric current is –",
+      "answers": [
+        "Ampere",
+        "Volt",
+        "Ohm",
+        "Watt"
+      ],
+      "correct": 0,
+      "explanation": "The SI unit of electric current is Ampere.",
+      "source": "RRB JE 24-05-2019 (Shift -I), RRB NTPC 11.12.2020 (Shift-I) Stage Ist"
+    },
+     {
+        "id": 37,
+        "question": "S.I. unit of energy is –",
+        "answers": [
+          "Joule",
+          "Newton",
+          "Pascal",
+          "Coulomb"
+        ],
+        "correct": 0,
+        "explanation": "The SI unit of energy is the Joule (J).",
+        "source": "RRB JE (14-08-2019, Shift -I)"
+      },
+      {
+        "id": 38,
+        "question": "Which of the following has no unit?",
+        "answers": [
+          "Density",
+          "Relative density",
+          "Displacement",
+          "Pressure"
+        ],
+        "correct": 1,
+        "explanation": "Relative density (or specific gravity) is the ratio of the density of a substance to the density of water. It has no unit because it is a ratio.",
+        "source": "RRB ALP & Tec.(29-08-2018, Shift-I), RRB Group-D, 03-12-2018 (Shift –III)"
+      },
+      {
+        "id": 39,
+        "question": "Ampere second is the unit of:",
+        "answers": [
+          "Charge",
+          "Power",
+          "Voltage",
+          "Energy"
+        ],
+        "correct": 0,
+        "explanation": "Ampere second (As) is the unit of electric charge. It is calculated as the product of current (in Amperes) and time (in seconds).",
+        "source": "RRB JE (14-12-2014, Red Paper)"
+      },
+      {
+        "id": 40,
+        "question": "Gallon is generally used for:",
+        "answers": [
+          "Velocity",
+          "Container",
+          "Measuring volume",
+          "None of these"
+        ],
+        "correct": 2,
+        "explanation": "The gallon is a unit of volume measurement. One gallon is equivalent to 3.7854 liters in the U.S. system and 4.54609 liters in the Imperial system.",
+        "source": "RRB NTPC Stage-Ist, 31-03-2016, Shift -II"
+      },
+      {
+        "id": 41,
+        "question": "Which unit is used for measuring astronomical distance?",
+        "answers": [
+          "Pedometer",
+          "Parsec",
+          "Light year",
+          "Length of Hubble"
+        ],
+        "correct": 2,
+        "explanation": "A light year is a unit of length used to measure astronomical distances. It is equivalent to about 9.4607 × 10^12 kilometers.",
+        "source": "RRB NTPC Stage-Ist, 04-04-2016, Shift -II"
+      },
+      {
+        "id": 42,
+        "question": "S.I. unit of pressure is:",
+        "answers": [
+          "Newton/cm²",
+          "Newton-m²",
+          "Newton/m²",
+          "Newton-cm²"
+        ],
+        "correct": 2,
+        "explanation": "The SI unit of pressure is the Pascal (Pa), which is defined as one Newton per square meter (N/m²).",
+        "source": "RRB Group-D, 04-10-2018 (Shift –I), RRB Group-D, 01-10-2018 (Shift –III), RRB Group-D, 25-09-2018 (Shift –II), RRB Group-D, 25-09-2018 (Shift –III), RRB NTPC Stage-Ist, 09-04-2016, (Shift -II), RRB JE, 25-05-2014, (Shift -III)"
+      },
+      {
+        "id": 43,
+        "question": "What is the SI unit of pressure?",
+        "answers": [
+          "Pascal",
+          "Radian",
+          "Ampere",
+          "Steradian"
+        ],
+        "correct": 0,
+        "explanation": "The SI unit of pressure is Pascal.",
+        "source": "RRB NTPC 15.03.2021 (Shift-II) Stage Ist"
+      },
+      {
+        "id": 44,
+        "question": "Nm⁻² is S.I. unit of:",
+        "answers": [
+          "Force",
+          "Repulsion",
+          "Momentum",
+          "Pressure"
+        ],
+        "correct": 3,
+        "explanation": "Nm⁻² is a unit of pressure in the SI system, equivalent to Pascal (Pa).",
+        "source": "RRB Group-D, 05-11-2018 (Shift –I)"
+      },
+      {
+        "id": 45,
+        "question": "The unit of approximate distance from the earth to the sun is:",
+        "answers": [
+          "Light year",
+          "Astronomical Unit",
+          "Kelvin",
+          "Joule"
+        ],
+        "correct": 1,
+        "explanation": "The Astronomical Unit (AU) is used to measure the average distance between the Earth and the Sun, approximately 1.5 × 10¹¹ meters.",
+        "source": "RRB NTPC Stage-Ist, 16-04-2016, Shift -I"
+      },
+      {
+        "id": 46,
+        "question": "S.I. unit of force is:",
+        "answers": [
+          "Kelvin",
+          "Newton",
+          "Pascal",
+          "Volt"
+        ],
+        "correct": 1,
+        "explanation": "The SI unit of force is Newton (N). One Newton is defined as the force needed to accelerate a one-kilogram mass by one meter per second squared.",
+        "source": "RRB NTPC Stage-Ist, 16-04-2016, Shift -II"
+      },
+      {
+        "id": 47,
+        "question": "What is the SI unit of force?",
+        "answers": [
+          "Newton",
+          "Dyne",
+          "Pascal",
+          "Kip"
+        ],
+        "correct": 0,
+        "explanation": "The SI unit of force is Newton.",
+        "source": "RRB NTPC 30.12.2020 (Shift-II) Stage Ist"
+      },
+      {
+        "id": 48,
+        "question": "Which of the following is not correctly matched?",
+        "answers": [
+          "Frequency - Hertz",
+          "Magnetic flux - Tesla",
+          "Pressure - Pascal",
+          "Electric conductance - Siemens"
+        ],
+        "correct": 1,
+        "explanation": "The correct unit for Magnetic flux is Weber, not Tesla. Tesla is the unit for Magnetic flux density.",
+        "source": "RRB NTPC Stage-Ist, 30-04-2016, Shift -II, RRB Science Planner Physics 15 YCT"
+      },
+      {
+        "id": 49,
+        "question": "S.I. unit of displacement is:",
+        "answers": [
+          "Meter",
+          "Kilometer",
+          "Centimeter",
+          "Meter per second"
+        ],
+        "correct": 0,
+        "explanation": "The SI unit of displacement is Meter. Displacement is the shortest distance between the starting and ending point.",
+        "source": "RRB Group-D, 02-11-2018 (Shift –II)"
+      },
+      {
+        "id": 50,
+        "question": "The S.I. unit of ‘g’ is same as:",
+        "answers": [
+          "Pressure",
+          "Momentum",
+          "Velocity",
+          "Acceleration"
+        ],
+        "correct": 3,
+        "explanation": "The SI unit of gravitational acceleration ‘g’ is the same as the SI unit of linear acceleration, which is meter per second squared (m/s²).",
+        "source": "RRB Group-D, 13-12-2018 (Shift –II)"
+      },
+   {
+          "id": 51,
+          "question": "Which of the following has the same unit?",
+          "answers": [
+            "Work & Energy",
+            "Force & Pressure",
+            "Force & Momentum",
+            "Force & Work"
+          ],
+          "correct": 0,
+          "explanation": "Work and energy have the same unit. The SI unit of work and energy is the Joule (J).",
+          "source": "RRB Group-D, 12-12-2018 (Shift –III), RRB Group-D, 03-10-2018 (Shift –II)"
+        },
+        {
+          "id": 52,
+          "question": "Nm²kg⁻² is S.I. unit of –",
+          "answers": [
+            "Pressure",
+            "Momentum",
+            "Acceleration",
+            "Universal constant of gravitation"
+          ],
+          "correct": 3,
+          "explanation": "Nm²kg⁻² is the SI unit of the Universal constant of Gravitation (G).",
+          "source": "RRB Group-D, 01-10-2018 (Shift –I)"
+        },
+        {
+          "id": 53,
+          "question": "Weight has equal S.I. unit of-",
+          "answers": [
+            "Impulse",
+            "Acceleration",
+            "Force",
+            "Mass"
+          ],
+          "correct": 2,
+          "explanation": "The SI unit of weight is 'Newton', which is the same as the unit of force.",
+          "source": "RRB Group-D, 12-11-2018 (Shift –II), RRB Group-D, 07-12-2018 (Shift –III)"
+        },
+        {
+          "id": 54,
+          "question": "Which of the following two physical quantities have the same unit?",
+          "answers": [
+            "Pressure and Force",
+            "Force and Dyne",
+            "Force and Speed",
+            "Force and Weight"
+          ],
+          "correct": 3,
+          "explanation": "Force and weight have the same unit. The unit of both is Newton (N).",
+          "source": "RRB Group-D, 09-10-2018 (Shift–II)"
+        },
+        {
+          "id": 55,
+          "question": "Newton is S.I. unit of …… ?",
+          "answers": [
+            "Weight and Velocity",
+            "Weight and Force",
+            "Weight and Mass",
+            "Weight and Acceleration"
+          ],
+          "correct": 1,
+          "explanation": "Newton is the SI unit of both weight and force.",
+          "source": "RRB Group-D, 01-10-2018 (Shift –I)"
+        },
+        {
+          "id": 56,
+          "question": "Which of the following pairs does not have the same S.I. units?",
+          "answers": [
+            "Speed and Velocity",
+            "Work and Energy",
+            "Force and Pressure",
+            "Displacement and Distance"
+          ],
+          "correct": 2,
+          "explanation": "The Newton is the SI unit of force, while pressure is measured in Pascal (Pa), which is N/m².",
+          "source": "RRB Group-D, 01-10-2018 (Shift –III), RRB Group-D, 05-10-2018 (Shift –II)"
+        },
+        {
+          "id": 57,
+          "question": "In the following which pair has not the same unit?",
+          "answers": [
+            "Speed and Velocity",
+            "Work and Energy",
+            "Distance and Displacement",
+            "Force and Pressure"
+          ],
+          "correct": 3,
+          "explanation": "Force and pressure do not have the same unit. Force is measured in Newtons (N) while pressure is measured in Pascals (Pa).",
+          "source": "RRB Group-D, 05-10-2018 (Shift –II)"
+        },
+        {
+          "id": 58,
+          "question": "The international unit of Speed is-",
+          "answers": [
+            "m/s",
+            "km/h",
+            "m/minute",
+            "km/s"
+          ],
+          "correct": 0,
+          "explanation": "Speed is defined as the distance covered per unit time. Its SI unit is meters per second (m/s).",
+          "source": "RRB Group-D, 01-10-2018 (Shift –III)"
+        },
+        {
+          "id": 59,
+          "question": "ms⁻² is S.I. unit of which of the following?",
+          "answers": [
+            "Velocity",
+            "Speed",
+            "Force",
+            "Acceleration"
+          ],
+          "correct": 3,
+          "explanation": "The SI unit of acceleration is meters per second squared (m/s²).",
+          "source": "RRB Group-D, 15-10-2018 (Shift –III), RRB Group-D, 24-09-2018 (Shift –I), RRB Group-D, 11-10-2018 (Shift –II), RRB Group-D, 19-09-2018 (Shift –III)"
+        },
+        {
+          "id": 60,
+          "question": "Which of the following has S.I. unit Joule / second?",
+          "answers": [
+            "Work",
+            "Force",
+            "Thrust",
+            "Power"
+          ],
+          "correct": 3,
+          "explanation": "Power is defined as the rate of work done, and its SI unit is Joule per second (J/s) or Watt (W).",
+          "source": "RRB Group-D, 02-11-2018 (Shift –II)"
+        },
+        {
+          "id": 61,
+          "question": "Volt is S.I. unit of……?",
+          "answers": [
+            "Resistance",
+            "Electric charge",
+            "Electric current",
+            "Electric potential"
+          ],
+          "correct": 3,
+          "explanation": "Volt is the SI unit of electric potential.",
+          "source": "RRB Group-D, 05-10-2018 (shift -I)"
+        },
+        {
+          "id": 62,
+          "question": "What is the unit of electric potential?",
+          "answers": [
+            "Volt (V)",
+            "Coulomb",
+            "Joule (J)",
+            "Ampere (A)"
+          ],
+          "correct": 0,
+          "explanation": "The unit of electric potential is Volt (V).",
+          "source": "RRB JE CBT-II 31.08.2019 IInd Shift"
+        },
+        {
+          "id": 63,
+          "question": "S.I. unit of voltage is –",
+          "answers": [
+            "Coulomb",
+            "Joule",
+            "Volt",
+            "Watt"
+          ],
+          "correct": 2,
+          "explanation": "The SI unit of voltage is Volt.",
+          "source": "RRB Group-D, 11-12-2018 (Shift –II), RRB Group-D, 25-10-2018 (Shift –III)"
+        },
+         {
+          "id": 64,
+          "question": "Which of the following is the unit of temperature?",
+          "answers": [
+            "Degree",
+            "Celsius",
+            "Fahrenheit",
+            "Kelvin"
+          ],
+          "correct": 3,
+          "explanation": "The SI unit of temperature is Kelvin (K).",
+          "source": "RRB Group-D, 15-11-2018 (Shift –II)"
+        },
+        {
+          "id": 65,
+          "question": "Ohm-m is the unit of…….?",
+          "answers": [
+            "Resistivity",
+            "Electric current",
+            "Charge",
+            "Resistance"
+          ],
+          "correct": 0,
+          "explanation": "Ohm-m (Ohm meter) is the SI unit of electrical resistivity.",
+          "source": "RRB Group-D, 05-10-2018 (shift–II)"
+        },
+        {
+          "id": 66,
+          "question": "…..... has S.I. unit ampere?",
+          "answers": [
+            "Voltage",
+            "Electric charge",
+            "Electric current",
+            "Resistance"
+          ],
+          "correct": 2,
+          "explanation": "The SI unit of electric current is ampere (A).",
+          "source": "RRB Group-D, 03-10-2018 (Shift –III)"
+        },
+        {
+          "id": 67,
+          "question": "What is the S.I. unit of retardation?",
+          "answers": [
+            "ms²",
+            "ms",
+            "ms⁻¹",
+            "ms⁻²"
+          ],
+          "correct": 3,
+          "explanation": "The SI unit of retardation is meters per second squared (m/s²). Retardation is negative acceleration.",
+          "source": "RRB Group-D, 03-10-2018 (Shift –III)"
+        },
+        {
+          "id": 68,
+          "question": "1 Pascal = ?",
+          "answers": [
+            "1 N/m²",
+            "100 atmosphere",
+            "1 dyne cm⁻²",
+            "1 N m²"
+          ],
+          "correct": 0,
+          "explanation": "1 Pascal (Pa) = 1 Newton per square meter (N/m²).",
+          "source": "RRB Group-D, 11-12-2018 (Shift –II)"
+        },
+        {
+          "id": 69,
+          "question": "Match the following with the correct response- (1) Watt - (a) N-m/sec (2) 1 Kilowatt - (b) 3.6 × 10⁶ J (3) 1 Kilowatt hour - (c) 1000W (4) 1 Horsepower - (d) 746W",
+          "answers": [
+            "1-A, 2-C, 3-B, 4-D",
+            "1-A, 2-C, 3-D, 4-B",
+            "1-D, 2-B, 3-C, 4-A",
+            "1-A, 2-B, 3-C, 4-D"
+          ],
+          "correct": 0,
+          "explanation": "1 Watt = N-m/sec, 1 Kilowatt = 1000W, 1 Kilowatt hour = 3.6 × 10⁶ J, 1 Horsepower = 746W.",
+          "source": "RRB ALP & Tec. (31-08-2018, Shift-I)"
+        },
+        {
+          "id": 70,
+          "question": "What is the S.I. unit of wavelength?",
+          "answers": [
+            "Hertz",
+            "Kilogram",
+            "Second",
+            "Meter"
+          ],
+          "correct": 3,
+          "explanation": "The SI unit of wavelength is meter (m).",
+          "source": "RRB JE (26-06-2019, Shift-IV)"
+        },
+        {
+          "id": 71,
+          "question": "Which one of these is a symbol of mole in S.I. unit?",
+          "answers": [
+            "g",
+            "mol",
+            "kg",
+            "mg"
+          ],
+          "correct": 1,
+          "explanation": "The symbol for mole in SI units is 'mol'.",
+          "source": "RRB JE (28-06-2019, Shift-IV)"
+        },
+        {
+          "id": 72,
+          "question": "What is the unit of electric power expenditure?",
+          "answers": [
+            "kWh",
+            "Joule",
+            "Watt",
+            "Volt"
+          ],
+          "correct": 0,
+          "explanation": "Electric power expenditure is measured in kilowatt-hours (kWh).",
+          "source": "RRB JE (02-06-2019, Shift-I)"
+        },
+        {
+          "id": 73,
+          "question": "What is another name for coulomb / second?",
+          "answers": [
+            "Joule",
+            "Ampere",
+            "Volt",
+            "Second"
+          ],
+          "correct": 1,
+          "explanation": "Coulomb per second is known as an Ampere (A).",
+          "source": "RRB JE (28-05-2019, Shift-III)"
+        },
+        {
+          "id": 74,
+          "question": "Lux is the SI unit of",
+          "answers": [
+            "Intensity of illumination",
+            "Luminous efficiency",
+            "Luminous flux",
+            "Luminous intensity"
+          ],
+          "correct": 0,
+          "explanation": "Lux is the SI unit of illuminance (intensity of illumination).",
+          "source": "RRB JE (14-12-2019, Green Paper)"
+        },
+        {
+          "id": 75,
+          "question": "What is the S.I. unit of wave speed?",
+          "answers": [
+            "Meter",
+            "Meter/second",
+            "Second",
+            "Hertz"
+          ],
+          "correct": 1,
+          "explanation": "The SI unit of wave speed is meters per second (m/s).",
+          "source": "RRB JE (28-05-2019, Shift-III)"
+        }
+        ]        
+    } 
+]
+         
+  
+    
+  

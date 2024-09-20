@@ -1,0 +1,595 @@
+
+[
+  {
+  "topic": "Newton's Laws of Motion",
+  "quiz_items": [
+    {
+      "id": 412,
+      "question": "The rate of change of momentum of an object is proportional to the applied unbalanced force in the direction of the force. This rule is known as:",
+      "answers": [
+        "Newton's First Law of Motion",
+        "Newton's Fourth Law of Motion",
+        "Newton's Second Law of Motion",
+        "Newton's Third Law of Motion"
+      ],
+      "correct": 2,
+      "explanation": "Newton’s second law is a quantitative description of the changes that a force can produce on the motion of a body. It states that the rate of change of the momentum of a body is equal to both the magnitude and direction of the force imposed on it. Momentum, like velocity, is a vector quantity, having both magnitude and direction.",
+      "source": "RRB NTPC 15.02.2021 (Shift-II) Stage Ist"
+    },
+    {
+      "id": 413,
+      "question": "If we move the tree branch fast then some of the leaves get detached from the tree due to:",
+      "answers": [
+        "Acceleration",
+        "Velocity",
+        "Inertia",
+        "Impulse"
+      ],
+      "correct": 2,
+      "explanation": "When the tree's branch is moved fast, the branch attains motion but the leaves stay at rest. Due to inertia of rest, the leaves tend to remain in their position and hence detach from the tree.",
+      "source": "RRB Group-D 04-12-2018 (Shift-II)"
+    },
+    {
+      "id": 414,
+      "question": "Which of the following examples illustrates Newton's first law of motion?",
+      "answers": [
+        "When we stop pedaling, the cycle starts to slow down.",
+        "While catching a fast approaching cricket ball, the fielder slowly moves his hand backwards with the moving ball.",
+        "When a bus starts abruptly, the passengers are jerked backwards.",
+        "Rocket launching"
+      ],
+      "correct": 2,
+      "explanation": "Newton's First Law of Motion states that an object in rest will remain in rest unless acted upon by an external force. The example given describes the passengers being jerked backward due to the inertia of rest.",
+      "source": "RRB Group-D 05-11-2018 (Shift-III)"
+    },
+    {
+      "id": 415,
+      "question": "How many laws of motion did Isaac Newton formulate?",
+      "answers": [
+        "Three",
+        "Four",
+        "Two",
+        "Five"
+      ],
+      "correct": 0,
+      "explanation": "Sir Issac Newton formulated his three laws of motion in his book 'Mathematical Principles of Natural Philosophy' first published in 1687.",
+      "source": "RRB NTPC 01.04.2021 (Shift-II) Stage Ist"
+    },
+    {
+      "id": 416,
+      "question": "The three laws of motion were proposed by:",
+      "answers": [
+        "Aristotle",
+        "Galileo",
+        "Newton",
+        "Edison"
+      ],
+      "correct": 2,
+      "explanation": "Sir Isaac Newton proposed the three Laws of Motion, which explain the relationship between motion of an object and forces acting on the object.",
+      "source": "RRB NTPC 08.01.2021 (Shift-II) Stage Ist"
+    },
+    {
+      "id": 417,
+      "question": "What is the equation for Newton's second law of motion?",
+      "answers": [
+        "F = mc^2",
+        "F = ma",
+        "F = AP",
+        "F = 1/2 mv^2"
+      ],
+      "correct": 1,
+      "explanation": "The second law of motion, as expressed by Newton, states that the force applied on an object is equal to the product of its mass and acceleration (F = ma).",
+      "source": "RRB NTPC 12.02.2021 (Shift-I) Stage Ist"
+    },
+    {
+      "id": 418,
+      "question": "What is the other name of Newton's first law of motion?",
+      "answers": [
+        "Law of momentum",
+        "Law of movement",
+        "Law of inertia",
+        "Law of displacement"
+      ],
+      "correct": 2,
+      "explanation": "Newton's First Law is also termed as the Law of Inertia. It states that a body in rest or motion continues to be in such state until an external force is applied on it.",
+      "source": "RRB NTPC 04.01.2021 (Shift-II) Stage Ist"
+    },
+    {
+      "id": 419,
+      "question": "Second law of motion is related to:",
+      "answers": [
+        "Pressure",
+        "Inertia",
+        "Thrust (push)",
+        "Momentum"
+      ],
+      "correct": 3,
+      "explanation": "The second law of motion is related to momentum. According to the second law, the change in momentum of an object is proportional to the force exerted on that object and occurs in the same direction.",
+      "source": "RRB Group-D 30-10-2018 (Shift-I)"
+    },
+    {
+      "id": 420,
+      "question": "Newton's second law of motion:",
+      "answers": [
+        "Explains the relationship between forces on two mutually effective objects.",
+        "Is also known as the law of inertia.",
+        "Is helpful to understand the effects of force.",
+        "Is also known as the law of conservation of energy."
+      ],
+      "correct": 2,
+      "explanation": "Newton's second law is helpful to understand the effects of force as it relates to the rate of change of momentum being proportional to the applied force.",
+      "source": "RRB Group-D 27-11-2018 (Shift-III)"
+    },
+    {
+      "id": 421,
+      "question": "The equation F = ma, is given by Newton's .... law of motion:",
+      "answers": [
+        "II",
+        "III",
+        "I",
+        "IV"
+      ],
+      "correct": 0,
+      "explanation": "The equation F = ma is given by Newton's II law of motion.",
+      "source": "RRB Group-D 05-12-2018 (Shift-I)"
+    },
+    {
+      "id": 422,
+      "question": "Which of the following Newton's Law of Motion provides an explanation for why a ball thrown on the wall collides and returns?",
+      "answers": [
+        "First law of motion",
+        "Second law of motion",
+        "Third law of motion",
+        "None of the rules"
+      ],
+      "correct": 2,
+      "explanation": "Newton's Third Law of Motion explains that when a ball is thrown on the wall, it bounces back due to the equal and opposite reaction force.",
+      "source": "RRB NTPC Stage Ist 26.04.2016 (Shift-II)"
+    },
+    {
+      "id": 423,
+      "question": "Which of the following statements is true for Newton's Third Law of Motion?",
+      "answers": [
+        "The force is applied to the same body.",
+        "The force is applied on the same body in the opposite direction.",
+        "The force is applied on a different body in opposite direction.",
+        "Force is dependent on distance."
+      ],
+      "correct": 2,
+      "explanation": "Newton's Third Law of Motion states that for every action, there is an equal and opposite reaction, meaning the force is applied on different bodies in opposite directions.",
+      "source": "RRB Group-D 12-10-2018 (Shift-I)"
+    },
+    {
+      "id": 424,
+      "question": "The famous law of motion is given by:",
+      "answers": [
+        "Dalton",
+        "Newton",
+        "Galileo",
+        "Thomson"
+      ],
+      "correct": 1,
+      "explanation": "Newton gave three laws of motion: the Law of Inertia, the Law of Force, Mass and Acceleration, and the Law of Action-Reaction.",
+      "source": "Group-D 26-10-2018 (Shift-II)"
+    },
+    {
+      "id": 425,
+      "question": "The rate of change in momentum of a body is proportional to:",
+      "answers": [
+        "Applied displacement",
+        "Applied force",
+        "Applied potential energy",
+        "Applied pressure"
+      ],
+      "correct": 1,
+      "explanation": "The rate of change in momentum of an object is proportional to the force applied on it and in the direction of the force. This is known as Newton's second law of motion.",
+      "source": "RRB Group-D 22-09-2018 (Shift-III)"
+    },
+        {
+          "id": 426,
+          "question": "The second law of motion shows-",
+          "answers": [
+            "Every object will remain in a state of constant or uniform motion, unless it is forced to change its state by the action of pure force.",
+            "When pure force is applied, each object will move at the same speed.",
+            "The rate of change in the speed of the object will change with the applied net force.",
+            "The rate of change of momentum of an object is proportional to the net force applied to the object in the direction of net force."
+          ],
+          "correct": 3,
+          "explanation": "Second Law of Motion - The rate of change of momentum is directly proportional to the applied force. The larger the force acting on a body, greater is the change in its momentum. Since change in momentum is equal to the product of mass and the acceleration and the mass of the body remains constant, so the rate of change of momentum is directly proportional to the rate of change of velocity i.e., acceleration. Hence force (F) is directly proportional to mass (m) and acceleration (a).",
+          "source": "RRB Group-D 22-09-2018 (Shift-II) RRB Science Planner Physics 49 YCT"
+        },
+        {
+          "id": 427,
+          "question": "Which of the following statements is false?",
+          "answers": [
+            "When a bus stops suddenly, a passenger sitting in the bus is jerked backwards.",
+            "When a person jumps from a moving bus, he falls.",
+            "When a rotating fan stops, it rotates for some time.",
+            "When a bus stops suddenly, a passenger sitting in the bus gets a shock in the front."
+          ],
+          "correct": 0,
+          "explanation": "When a moving bus stops, the lower part of our body in contact with the bus comes to rest while the upper part of our body tends to keep moving due to inertia of motion. Hence, we fall forwards.",
+          "source": "RRB Group-D 07-12-2018 (Shift-I)"
+        },
+        {
+          "id": 428,
+          "question": "1 Kg × 1 ms-2 is said to be what?",
+          "answers": [
+            "1 newton",
+            "1 coulomb",
+            "1 pascal",
+            "1 joule"
+          ],
+          "correct": 0,
+          "explanation": "From Newton's Second Law - Force = mass × acceleration. 1 Kg × 1 m/s² = 1 Newton. The unit of force is Newton.",
+          "source": "RRB Group-D 15-11-2018 (Shift-II)"
+        },
+        {
+          "id": 429,
+          "question": "What was the year of publication of Newton's laws of motion?",
+          "answers": [
+            "1678",
+            "1778",
+            "1787",
+            "1687"
+          ],
+          "correct": 3,
+          "explanation": "Newton published the laws of motion in his book Principia in 1687 AD. Newton gave three physical laws of motion. These laws indicate the relationship between the force exerted on an object and the motion of that object generated from it.",
+          "source": "RRB Group-D 27-11-2018 (Shift-III)"
+        },
+        {
+          "id": 430,
+          "question": "Why does a fielder turn his arms backwards while catching a fast approaching cricket ball?",
+          "answers": [
+            "Because he is nervous.",
+            "Because it helps to aim the ball.",
+            "Because he experiences less force over a longer period of time.",
+            "Because it gives him vigilance."
+          ],
+          "correct": 2,
+          "explanation": "The fielder turns his arm backwards while catching a fast approaching cricket ball. It follows Newton's second law of motion. i.e. the rate of momentum changes in the ball decreases due to which it experiences less force over a longer time. Therefore, the impact of the ball is less on the arm.",
+          "source": "RRB Group-D 15-11-2018 (Shift-I)"
+        },
+        {
+          "id": 431,
+          "question": "What will be the kinetic energy of the rifle if the rifle comes backwards without stopping?",
+          "answers": [
+            "More than the kinetic energy of the bullet",
+            "Less than the kinetic energy of the bullet",
+            "Equal to the kinetic energy of the bullet",
+            "Zero"
+          ],
+          "correct": 1,
+          "explanation": "According to Newton's third law, when we apply force on a body, it exerts the same force back, it is also called action-reaction force. This is why if the gun pushes the gunner backwards, then the kinetic energy of the gun will be less than the kinetic energy of the bullet.",
+          "source": "RRB Group-D 07-12-2018 (Shift-I)"
+        },
+          {
+            "id": 432,
+            "question": "The product of mass and acceleration is called.",
+            "answers": [
+              "Pressure",
+              "Impulse",
+              "Thrust",
+              "Force"
+            ],
+            "correct": 3,
+            "explanation": "The rate of change of momentum is directly proportional to the applied force. Since change in momentum is equal to the product of mass and acceleration, force (F) is directly proportional to mass (m) and acceleration (a), F = ma.",
+            "source": "RRB Group-D 12-10-2018 (Shift-I)"
+          },
+          {
+            "id": 433,
+            "question": "Which of the following examples explains Newton's third law of motion?",
+            "answers": [
+              "Rocket launching",
+              "On the sudden move of the bus, the passengers get jerked backwards.",
+              "When we stop pedaling, the cycle starts to slow down.",
+              "While catching a fast approaching cricket ball, the fielder slowly moves his hand backwards with the moving ball."
+            ],
+            "correct": 0,
+            "explanation": "According to Newton's third law of motion, every action has an equal and opposite reaction. Rocket launching is an example of this law.",
+            "source": "RRB Group-D 02-11-2018 (Shift-III)"
+          },
+          {
+            "id": 434,
+            "question": "When a sailor jumps in the forward direction, the boat drifts backwards. Which law of Newton represents the example?",
+            "answers": [
+              "Second law of motion",
+              "First and second law of motion",
+              "Third law of motion",
+              "First law of motion"
+            ],
+            "correct": 2,
+            "explanation": "Newton's Third Law of Motion states that to every action, there is an equal and opposite reaction. When a sailor jumps forwards, the boat moves backwards due to the reaction force.",
+            "source": "RRB ALP & Tec. (31-08-18 Shift-III)"
+          },
+          {
+            "id": 435,
+            "question": "Rocket launching is based on which law?",
+            "answers": [
+              "Newton's third law of motion",
+              "Newton's first law of motion",
+              "Thermodynamic law",
+              "All of Newton's laws of motion"
+            ],
+            "correct": 0,
+            "explanation": "Rocket launching is based on Newton's third law of motion, which states that every action has an equal and opposite reaction.",
+            "source": "RRB Group-D 15-10-2018 (Shift-III)"
+          },
+          {
+            "id": 436,
+            "question": "The force between two objects is always equal and opposite. Which Newton's law gives the idea about the statement?",
+            "answers": [
+              "Third law of motion",
+              "Second law of motion",
+              "First and second law of motion",
+              "First law of motion"
+            ],
+            "correct": 0,
+            "explanation": "Newton's Third Law of Motion states that for every action, there is an equal and opposite reaction. This applies to the forces between two objects.",
+            "source": "RRB ALP & Tec. (31-08-18 Shift-I)"
+          },
+           {
+                "id": 437,
+                "question": "When a stationary bus starts moving, the people standing in it fall in the back direction. Which of the following law explains this situation?",
+                "answers": [
+                  "Newton's first law of motion",
+                  "Newton's third law of motion",
+                  "Newton's second law of motion",
+                  "Law of momentum conservation"
+                ],
+                "correct": 0,
+                "explanation": "Newton formulated three laws of motion– According to the first law, any object tries to maintain its state of motion or rest. It is also called the law of inertia. The statement in question is based on this law.",
+                "source": "RRB ALP & Tec. (30-08-18 Shift-II)"
+              },
+              {
+                "id": 438,
+                "question": "A man is standing in a boat in still water. If he tries to walk towards the shore, the boat will",
+                "answers": [
+                  "move away from the shore",
+                  "remain stationary",
+                  "sink",
+                  "move towards the shore"
+                ],
+                "correct": 0,
+                "explanation": "A man is standing on a boat in still water. If he walks towards the shore, the boat will move away from the shore. This is according to Newton's Third Law of Motion, to every action there is an equal and opposite reaction.",
+                "source": "RRB J.E. (14.12.2014, Green paper)"
+              },
+              {
+                "id": 439,
+                "question": "When a bullet is fired from the gun, the gun pushes in the opposite direction. This is an example of Newton's law.",
+                "answers": [
+                  "First and second laws of motion",
+                  "Third law of motion",
+                  "Second law of motion",
+                  "First law of motion"
+                ],
+                "correct": 1,
+                "explanation": "According to Newton's third law of motion, when an object exerts a force on another object, the second object also exerts the same force on the first object, i.e. each action has its equal and opposite reaction. It is also called the Law of action-reaction.",
+                "source": "RRB ALP & Tec. (13-08-18 Shift-II)"
+              },
+              {
+                "id": 440,
+                "question": "Newton's Third Law of Motion applies to which of the following situations?",
+                "answers": [
+                  "When a person jumps from the boat to the river, the boat goes backwards",
+                  "Passengers standing in a bus fall in the back direction, when the stationary bus suddenly moves",
+                  "When a person falls on the cement floor, he gets hurt",
+                  "While catching a fast moving cricket ball, a fielder puts his hands backwards"
+                ],
+                "correct": 0,
+                "explanation": "This is an example of Newton's Third Law of Motion. When a person jumps from the boat to the river, the boat moves backward, which is the reaction to the action of the person jumping.",
+                "source": "RRB Group-D 24-10-2018 (Shift-I)"
+              },
+              {
+                "id": 441,
+                "question": "Which of the following is an example of Newton's third law of motion:",
+                "answers": [
+                  "While catching a fast approaching cricket ball, the fielder slowly moves his hand backwards with the moving ball.",
+                  "When we stop paddling, the cycle slows down",
+                  "When a bus moves suddenly, the passengers are jerked backwards",
+                  "Rocket launching"
+                ],
+                "correct": 3,
+                "explanation": "Rocket launching is a classic example of Newton's third law of motion, which states that for every action, there is an equal and opposite reaction.",
+                "source": "RRB Group-D 17-09-2018 (Shift-I)"
+              },
+              {
+                "id": 442,
+                "question": "On what basis can the definition of force be interpreted?",
+                "answers": [
+                  "Newton's second law of motion",
+                  "Newton's first law of motion",
+                  "Newton's third law of motion",
+                  "Newton's law of gravity"
+                ],
+                "correct": 1,
+                "explanation": "Newton's First Law of Motion states that an object at rest stays at rest, and an object in motion stays in motion unless acted upon by an external force. This law helps in defining force.",
+                "source": "RRB ALP & Tec. (20-08-18 Shift-III)"
+              },
+              {
+                "id": 443,
+                "question": "At any moment, the acceleration of a rocket is proportional to the nth power of the velocity of the released gases. The value of 'n' should be–",
+                "answers": [
+                  "1",
+                  "2",
+                  "-1",
+                  "-2"
+                ],
+                "correct": 0,
+                "explanation": "The speed of the escaping gas is in the opposite direction as the speed of the rocket. At any moment, the acceleration of a rocket is proportional to the nth power of the velocity of the released gases, where n = 1.",
+                "source": "RRB Group-D 31-10-2018 (Shift-II)"
+              },
+              {
+                "id": 444,
+                "question": "A 70 kg man pushes a 50 kg man with the force of 50N. How much force has a 50 kg man pushed the other person?",
+                "answers": [
+                  "50N",
+                  "30N",
+                  "100N",
+                  "60N"
+                ],
+                "correct": 0,
+                "explanation": "According to Newton's Third Law (action-reaction), every action has an equal but opposite reaction. Therefore, if a 70 kg man pushes a 50 kg man with a force of 50N, the 50 kg man will push the other person with the same force of 50N.",
+                "source": "RRB Group-D 24-09-2018 (Shift-II)"
+              },
+              {
+                "id": 445,
+                "question": "Newton's laws do not hold good for particles-",
+                "answers": [
+                  "at rest",
+                  "moving slowly",
+                  "move with high velocity",
+                  "move with velocity comparable to the velocity of light"
+                ],
+                "correct": 3,
+                "explanation": "Newton's laws of motion are applicable to matter which occupies some space and has some mass. However, these laws do not apply to particles moving with a velocity comparable to the speed of light.",
+                "source": "RRB Group-D 20-09-2018 (Shift-III)"
+              },
+              {
+                "id": 446,
+                "question": "In the absence of gravitational force of attraction, propulsion on the rocket is:",
+                "answers": [
+                  "stable at the rate of exhaust gas is constant",
+                  "stable for short-range rockets",
+                  "not stable",
+                  "stable"
+                ],
+                "correct": 3,
+                "explanation": "Rockets are based on Newton's third Law of motion (action-reaction). In the absence of gravitational force, the propulsion on the rocket is stable.",
+                "source": "RRB Group-D 16-11-2018 (Shift-II)"
+              },
+              {
+                "id": 447,
+                "question": "The tendency of an object to resist change in static or dynamic condition is called –",
+                "answers": [
+                  "momentum",
+                  "force",
+                  "velocity",
+                  "inertia"
+                ],
+                "correct": 3,
+                "explanation": "Inertia is the natural tendency of a body to resist any change in its state of rest or uniform motion in a straight line.",
+                "source": "RRB Group-D 20-09-2018 (Shift-II)"
+              },
+              {
+                "id": 448,
+                "question": "The tendency of an object at rest stays at rest and an object in motion stays in motion is called–",
+                "answers": [
+                  "velocity",
+                  "force",
+                  "momentum",
+                  "inertia"
+                ],
+                "correct": 3,
+                "explanation": "The tendency of an object at rest to remain at rest and an object in motion to remain in motion is called inertia.",
+                "source": "RRB JE 02.06.2019 (Shift-I), RRB ALP & Tec. (17-08-18 Shift-I)"
+              },
+              {
+                "id": 449,
+                "question": "An athlete runs for some time before the high jump so that the inertia of the –––––– helps him take the long jump.",
+                "answers": [
+                  "rest",
+                  "direction",
+                  "size",
+                  "speed"
+                ],
+                "correct": 3,
+                "explanation": "Inertia of Motion – The tendency of a body to remain in its state of uniform motion in a straight line helps the athlete take a longer jump.",
+                "source": "RRB ALP & Tec. (31-08-18 Shift-II)"
+              },
+              {
+                "id": 450,
+                "question": "The stock of books lying on the table does not move due to ..........",
+                "answers": [
+                  "inertia",
+                  "speed",
+                  "magnetism",
+                  "gravity"
+                ],
+                "correct": 0,
+                "explanation": "Inertia is the inability of a body to change its state by itself. In this case, the books do not move due to inertia.",
+                "source": "RRB ALP & Tec. (14-08-18 Shift-II)"
+              },
+              {
+                    "id": 451,
+                    "question": "The tendency of stationary objects to remain at rest or in motion at a constant velocity is called -",
+                    "answers": [
+                      "force",
+                      "inertia",
+                      "momentum",
+                      "energy"
+                    ],
+                    "correct": 1,
+                    "explanation": "According to Newton's First Law of Motion, a body by itself is not able to change its state of rest or of uniform motion. This property of a body is called 'inertia'. That is why Newton's First Law of Motion is also called 'Law of Inertia'. The Law of Inertia was formulated by Galileo. The inertia of an object is the measurement of its mass.",
+                    "source": "RRB ALP & Tec. (10-08-18 Shift-I)"
+                  },
+                  {
+                    "id": 452,
+                    "question": "Why does a runner continue to run after crossing the finish line?",
+                    "answers": [
+                      "Friction between his shoes and the ground causes him to move beyond the line",
+                      "Inertia of motion drives him forward",
+                      "Inertia of stability takes some time to stop him",
+                      "He wants to make sure that he crosses the line"
+                    ],
+                    "correct": 1,
+                    "explanation": "A runner continues to run even after crossing the finish line as the inertia of momentum drives him forward. It takes some time to stabilize at a rapid pace.",
+                    "source": "RRB ALP & Tec. (20-08-18 Shift-II)"
+                  },
+                  {
+                    "id": 453,
+                    "question": "The law of inertia was propounded by",
+                    "answers": [
+                      "Isaac Newton",
+                      "Albert Einstein",
+                      "John Dalton",
+                      "Stephen Hawking"
+                    ],
+                    "correct": 0,
+                    "explanation": "Inertia is the quality of an object which causes the object to resist any change in its state of motion or state of rest. The Law of Inertia was formulated by Sir Isaac Newton. Newton's First Law of Motion is called the Law of Inertia.",
+                    "source": "RRB NTPC 05.04.2016 (Shift-I) Stage Ist"
+                  },
+                  {
+                    "id": 454,
+                    "question": "When the car turns on a curved road, the passengers sitting in it feel a force on themselves in the opposite direction of the center, this force is due to ………….",
+                    "answers": [
+                      "centrifugal force",
+                      "inertia",
+                      "centripetal force",
+                      "gravitational force"
+                    ],
+                    "correct": 1,
+                    "explanation": "The object in inertia stops at rest until an external force is applied to it. It is necessary to exert force (centrifugal force) on the object to move it, so when the car turns on a curved road, the passengers sitting in it feel a force in the opposite direction to the center; this force is due to inertia.",
+                    "source": "RRB Group-D 16-11-2018 (Shift-I), RRB Science Planner Physics 52 YCT"
+                  },
+                  {
+                    "id": 455,
+                    "question": "When the cardboard placed on the glass tumbler is flicked away with a finger, a coin placed on it falls in the glass. Which law defines the above statement?",
+                    "answers": [
+                      "Principle of conservation of energy",
+                      "Law of inertia",
+                      "Newton's third law of motion",
+                      "Principle of conservation of momentum"
+                    ],
+                    "correct": 1,
+                    "explanation": "Inertia is that quality of objects, due to which objects try to maintain their state of rest or state of motion, that is, they resist their change. When a card placed on a glass is pushed with a finger, the coin placed on it falls into the glass due to inertia. When the card is pushed, it enters a state of motion while the coin remains in a steady state due to inertia.",
+                    "source": "RRB Group-D 17-09-2018 (Shift-II)"
+                  },
+                  {
+                    "id": 456,
+                    "question": "Among which of the following is the maximum value of inertia?",
+                    "answers": [
+                      "Same size of rubber ball and stone",
+                      "Scooter and bus",
+                      "Ten rupee coins and five rupee coins",
+                      "Trains and airplanes"
+                    ],
+                    "correct": 3,
+                    "explanation": "The inertia of a body depends upon the quantity of mass. Among the following, trains and airplanes have the maximum mass. Hence, they possess maximum inertia.",
+                    "source": "RRB Group-D 16-10-2018 (Shift-I)"
+                  }
+                ]
+              }
+            ]
+              
+        
