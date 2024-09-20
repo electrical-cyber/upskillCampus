@@ -18,19 +18,7 @@ QuizApp/
 ├── quiz_app.py            # Main Python application
 └── README.md              # Project documentation
 json format
-[
-  {
-    "quiz_items": [
-      {
-        "question": "What is the SI unit of temperature?",
-        "answers": ["Kelvin", "Celsius", "Fahrenheit", "Rankine"],
-        "correct": 0,
-        "source": "Physics Textbook",
-        "explanation": "Kelvin is the SI unit of temperature."
-      }
-    ]
-  }
-]
+(Given in the quizez file in the repository )
 Ensure you have the required quiz files in the quizzes/ directory. Each quiz file should follow the format: [topic]_quiz.json.
 
 Run the application:
